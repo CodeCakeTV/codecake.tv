@@ -8,7 +8,7 @@ Join the cake-themed code and culture discussions with [@whitep4nth3r](https://t
 
 ## Episode 1: Pilot
 
-_'Coming out Half-Baked'_
+[_'Coming out Half-Baked'_](./episodes/episode_1.md)
 
 Friday 7th August 2020 @ 14:30 BST
 
