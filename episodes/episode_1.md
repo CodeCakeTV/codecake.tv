@@ -1,6 +1,8 @@
+![codeCake.tv](../assets/codecake.png)
+
 # CodeCake.tv
 
-> "Cutting into the culture of code"
+> _"Cutting into the culture of code"_
 
 ## Episode 1: "Coming out half-baked"
 
@@ -28,6 +30,6 @@
 - Constant feedback loops
 - Perpetual iteration: build, measure, learn
 
-___
+---
 
 ## Chat poll!
