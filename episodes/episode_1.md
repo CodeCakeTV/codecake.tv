@@ -31,7 +31,7 @@ The amount of alcohol at the party may directly correlate with the amount of cak
 
 The party will be held in a garden. Current data shows us that 1st September in the UK may bring hot weather. The construction of the cake must seek to mitigate the risk of any part of the cake melting in the hot weather (regardless of whether the cake is presented in the shade or in the open).
 
-Layla has specified she would like to transport the cake to the final party destinate on her bicycle. Layla has admitted she is a "wobbly and ineffective" cyclist.
+Layla has specified she would like to transport the cake to the final party destination on her bicycle. Layla has admitted she is a "wobbly and ineffective" cyclist.
 
 ### Constraints
 
@@ -68,7 +68,7 @@ N.B. Usually we would conduct usability interviews who may have been to Layla's 
 
 "...I am indifferent to the physical manifestation of the cake I eat."
 
-"...I must be able to consume a portion of cake intravenously if I so wish."
+~~"...I must be able to consume a portion of cake intravenously if I so wish."~~
 ```
 
 ### Problems we have identified
@@ -79,4 +79,4 @@ How might we produce a gluten-free, yet, palatable cake for a medium-sized birth
 _HMW transport the cake safely given the transport and competency risks we have over the proposed cycling solution.
 ```
 
-## Salma's vision: To provide Layla and her party attendeed with a postive birthday party experience featuring a cake.
+## Salma's vision: To provide Layla and her party attendees with a postive birthday party experience featuring a cake.
